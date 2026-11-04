@@ -27,8 +27,8 @@ public class App {
         System.out.println();
 
         cuenta1.depositar(50.0);
-        cuenta1.retirar(30.0);
-
+        cuenta1.retirar(60.0);
+        
         cuenta1.retirar(200.0);
 
         cuenta1.depositar(-10.0); // Intentamos realizar un deposito invalido

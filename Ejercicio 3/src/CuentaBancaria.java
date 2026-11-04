@@ -4,7 +4,6 @@ public class CuentaBancaria {
 
     public CuentaBancaria(String titular, double saldoInicial){
         this.titular = titular;
-
         if(saldoInicial >= 0){
             this.saldo = saldoInicial;
         }else{
@@ -30,7 +29,7 @@ public class CuentaBancaria {
         }
     }
 
-    // Metod p  depositar dinero en la cuenta
+    // Metod para depositar dinero en la cuenta
     public void depositar(double monto){
         if(monto > 0){
             saldo = saldo + monto;
