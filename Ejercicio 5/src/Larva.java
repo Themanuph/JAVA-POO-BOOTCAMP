@@ -1,7 +1,7 @@
 public class Larva extends Hormiga {
     public Larva(int id){
         // Llamos al constructor de la clase padre
-        super(id, "Lava");
+        super(id, "Larva");
     }
 
     @Override 
