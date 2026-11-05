@@ -1,7 +1,7 @@
 # Sistema de Gestion de un Refugio de Animales
 
 ## Autor
-Tu nombre y apellido
+Gabriel Jose Garcia
 
 ## Descripcion
 Programa de consola desarrollado en Java para gestionar
